@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jun 13 11:25:32 2015
+
+@author: altmeyer
+"""
+
 import numpy as np
 
 '''
@@ -15,7 +22,7 @@ lists in Python, except that every thing inside an array must be of the
 same type, like int or float.
 '''
 # Change False to True to see Numpy arrays in action
-if False:
+if True:
     array = np.array([1, 4, 5, 8], float)
     print array
     print ""
