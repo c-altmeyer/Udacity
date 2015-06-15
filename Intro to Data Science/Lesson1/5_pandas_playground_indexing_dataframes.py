@@ -20,7 +20,7 @@ Also a couple pointers:
 http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
 '''
 # Change False to True to see Series indexing in action
-if True:
+if False:
     data = {'year': [2010, 2011, 2012, 2011, 2012, 2010, 2011, 2012],
             'team': ['Bears', 'Bears', 'Bears', 'Packers', 'Packers', 'Lions',
                      'Lions', 'Lions'],
